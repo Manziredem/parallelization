@@ -1,3 +1,9 @@
+/*
+Author:  Red
+Date:    September 5, 2022
+Description: This code prints out a table
+*/
+
 #include <stdio.h>
 
 int main(){
