@@ -15,3 +15,6 @@ datatypes:datatypes.c
 
 constants:constants.c
 	gcc constants.c -o constants
+
+ifStat:ifStat.c
+	gcc ifStat.c -o ifStat
